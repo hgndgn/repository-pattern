@@ -7,3 +7,6 @@
  - EntityFramework
  - SQLite
  - Pagination
+ 
+<img src="RepositoryPattern.png" style="border-radius: 1rem; padding: 10px;"/>
+
